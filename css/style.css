@@ -15,6 +15,7 @@ body {
   padding: 15px;
   border-radius: 15px;
   width: 275px;
+  box-shadow: 6px 6px 11px 0px rgba(0, 0, 0, 0.15);
 }
 .qr-code img {
   max-width: 100%;
