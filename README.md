@@ -10,4 +10,4 @@ I made this simple - and warmie - component to have some contact with Sass, besi
 
 ### Links
 
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://graceful-mochi-11fd1f.netlify.app/))
+- Live Site URL: [[Add live site URL here](https://graceful-mochi-11fd1f.netlify.app/)]([https://your-live-site-url.com](https://graceful-mochi-11fd1f.netlify.app/))
